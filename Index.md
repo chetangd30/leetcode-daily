@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Roman to Integer](./LeetCode/roman-to-integer) - *Easy*
 - [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/longest-subsequence-with-non-zero-bitwise-xor) - *Medium*
 - [Subset Sum on Generated Sequence](./GeeksForGeeks/subset-sum-on-generated-sequence) - *Medium*
 - [Predict the Winner](./LeetCode/predict-the-winner) - *Medium*
