@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Longest Substring Without Repeating Characters](./LeetCode/longest-substring-without-repeating-characters) - *Medium*
 - [Add Two Numbers](./LeetCode/add-two-numbers) - *Medium*
 - [Stone Game IX](./LeetCode/stone-game-ix) - *Medium*
 - [Numbers Without d as Digit](./GeeksForGeeks/numbers-without-d-as-digit) - *Hard*
