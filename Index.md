@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Add Two Numbers](./LeetCode/add-two-numbers) - *Medium*
 - [Stone Game IX](./LeetCode/stone-game-ix) - *Medium*
 - [Numbers Without d as Digit](./GeeksForGeeks/numbers-without-d-as-digit) - *Hard*
 - [Roman to Integer](./LeetCode/roman-to-integer) - *Easy*
