@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Snake and Ladder Problem](./GeeksForGeeks/snake-and-ladder-problem) - *Medium*
 - [Longest Palindromic Substring](./LeetCode/longest-palindromic-substring) - *Medium*
 - [Median of Two Sorted Arrays](./LeetCode/median-of-two-sorted-arrays) - *Hard*
 - [Stone Game V](./LeetCode/stone-game-v) - *Hard*
