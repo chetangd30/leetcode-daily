@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Stone Game V](./LeetCode/stone-game-v) - *Hard*
 - [Min Product Subset](./GeeksForGeeks/min-product-subset) - *Medium*
 - [Longest Substring Without Repeating Characters](./LeetCode/longest-substring-without-repeating-characters) - *Medium*
 - [Add Two Numbers](./LeetCode/add-two-numbers) - *Medium*
