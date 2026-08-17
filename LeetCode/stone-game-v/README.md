@@ -8,8 +8,8 @@
 | **Solved On** | August 17, 2026 |
 | **Tags** | Array, Math, Dynamic Programming, Game Theory |
 | **Link** | [View Problem](https://leetcode.com/problems/stone-game-v/) |
-| **Runtime** | 0 ms |
-| **Memory** | 19.5 MB |
+| **Runtime** | 2079 ms |
+| **Memory** | 53.6 MB |
 
 ## Problem Description
 
