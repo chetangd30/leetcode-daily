@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Secret Cipher](./GeeksForGeeks/secret-cipher) - *Hard*
 - [Reverse Integer](./LeetCode/reverse-integer) - *Medium*
 - [Zigzag Conversion](./LeetCode/zigzag-conversion) - *Medium*
 - [Find the Largest Almost Missing Integer](./LeetCode/find-the-largest-almost-missing-integer) - *Easy*
