@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Zigzag Conversion](./LeetCode/zigzag-conversion) - *Medium*
 - [Find the Largest Almost Missing Integer](./LeetCode/find-the-largest-almost-missing-integer) - *Easy*
 - [Snake and Ladder Problem](./GeeksForGeeks/snake-and-ladder-problem) - *Medium*
 - [Longest Palindromic Substring](./LeetCode/longest-palindromic-substring) - *Medium*
