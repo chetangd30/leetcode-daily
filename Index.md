@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Cinema Seat Allocation](./LeetCode/cinema-seat-allocation) - *Medium*
 - [Secret Cipher](./GeeksForGeeks/secret-cipher) - *Hard*
 - [Reverse Integer](./LeetCode/reverse-integer) - *Medium*
 - [Zigzag Conversion](./LeetCode/zigzag-conversion) - *Medium*
