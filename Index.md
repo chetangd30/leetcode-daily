@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Regular Expression Matching](./LeetCode/regular-expression-matching) - *Hard*
 - [String to Integer (atoi)](./LeetCode/string-to-integer-atoi) - *Medium*
 - [Distribute Elements Into Two Arrays I](./LeetCode/distribute-elements-into-two-arrays-i) - *Easy*
 - [Triplets with Sum in Range](./GeeksForGeeks/triplets-with-sum-in-range) - *Medium*
