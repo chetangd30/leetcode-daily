@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Distribute Elements Into Two Arrays I](./LeetCode/distribute-elements-into-two-arrays-i) - *Easy*
 - [Triplets with Sum in Range](./GeeksForGeeks/triplets-with-sum-in-range) - *Medium*
 - [Cinema Seat Allocation](./LeetCode/cinema-seat-allocation) - *Medium*
 - [Secret Cipher](./GeeksForGeeks/secret-cipher) - *Hard*
