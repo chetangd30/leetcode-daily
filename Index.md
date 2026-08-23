@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Container With Most Water](./LeetCode/container-with-most-water) - *Medium*
 - [Sum Game](./LeetCode/sum-game) - *Medium*
 - [Node and Ancestor Max Diff](./GeeksForGeeks/node-and-ancestor-max-diff) - *Medium*
 - [Regular Expression Matching](./LeetCode/regular-expression-matching) - *Hard*
