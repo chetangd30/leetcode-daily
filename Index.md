@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Stone Game VIII](./LeetCode/stone-game-viii) - *Hard*
 - [Geek in a Maze](./GeeksForGeeks/geek-in-a-maze) - *Hard*
 - [Integer to Roman](./LeetCode/integer-to-roman) - *Medium*
 - [Container With Most Water](./LeetCode/container-with-most-water) - *Medium*
