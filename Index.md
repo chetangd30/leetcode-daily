@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [3Sum Closest](./LeetCode/3sum-closest) - *Medium*
 - [Smallest Missing Multiple of K](./LeetCode/smallest-missing-multiple-of-k) - *Easy*
 - [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/count-prefix-balanced-binary-strings) - *Easy*
 - [3Sum](./LeetCode/3sum) - *Medium*
