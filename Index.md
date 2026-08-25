@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Letter Combinations of a Phone Number](./LeetCode/letter-combinations-of-a-phone-number) - *Medium*
 - [3Sum Closest](./LeetCode/3sum-closest) - *Medium*
 - [Smallest Missing Multiple of K](./LeetCode/smallest-missing-multiple-of-k) - *Easy*
 - [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/count-prefix-balanced-binary-strings) - *Easy*
