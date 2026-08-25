@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Smallest Missing Multiple of K](./LeetCode/smallest-missing-multiple-of-k) - *Easy*
 - [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/count-prefix-balanced-binary-strings) - *Easy*
 - [3Sum](./LeetCode/3sum) - *Medium*
 - [Stone Game VIII](./LeetCode/stone-game-viii) - *Hard*
