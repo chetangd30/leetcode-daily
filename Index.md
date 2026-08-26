@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Remove Nth Node From End of List](./LeetCode/remove-nth-node-from-end-of-list) - *Medium*
 - [4Sum](./LeetCode/4sum) - *Medium*
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/shortest-and-lexicographically-smallest-beautiful-string) - *Medium*
 - [Implement Pow](./GeeksForGeeks/implement-pow) - *Medium*
