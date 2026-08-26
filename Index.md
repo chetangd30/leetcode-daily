@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [4Sum](./LeetCode/4sum) - *Medium*
 - [Shortest and Lexicographically Smallest Beautiful String](./LeetCode/shortest-and-lexicographically-smallest-beautiful-string) - *Medium*
 - [Implement Pow](./GeeksForGeeks/implement-pow) - *Medium*
 - [Minimum Moves to Sort Permutation](./GeeksForGeeks/minimum-moves-to-sort-permutation) - *Easy*
