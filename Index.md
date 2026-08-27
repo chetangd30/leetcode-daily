@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Lexicographically Smallest Permutation Greater Than Target](./LeetCode/lexicographically-smallest-permutation-greater-than-target) - *Medium*
 - [Negative Weight Cycle](./GeeksForGeeks/negative-weight-cycle) - *Medium*
 - [Remove Nth Node From End of List](./LeetCode/remove-nth-node-from-end-of-list) - *Medium*
 - [4Sum](./LeetCode/4sum) - *Medium*
