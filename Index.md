@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Largest prime factor](./GeeksForGeeks/largest-prime-factor) - *Medium*
 - [Largest Rectangle with Column Swaps](./GeeksForGeeks/largest-rectangle-with-column-swaps) - *Hard*
 - [Lexicographically Smallest Permutation Greater Than Target](./LeetCode/lexicographically-smallest-permutation-greater-than-target) - *Medium*
 - [Negative Weight Cycle](./GeeksForGeeks/negative-weight-cycle) - *Medium*
