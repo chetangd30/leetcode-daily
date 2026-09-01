@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Two water Jug problem](./GeeksForGeeks/two-water-jug-problem) - *Medium*
 - [Josephus problem](./GeeksForGeeks/josephus-problem) - *Hard*
 - [Tower Of Hanoi](./GeeksForGeeks/tower-of-hanoi) - *Medium*
 - [Count Palindromic Strings with Constraints](./GeeksForGeeks/count-palindromic-strings-with-constraints) - *Medium*
