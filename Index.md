@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Count Palindromic Strings with Constraints](./GeeksForGeeks/count-palindromic-strings-with-constraints) - *Medium*
 - [Merge k Sorted Lists](./LeetCode/merge-k-sorted-lists) - *Hard*
 - [Generate Parentheses](./LeetCode/generate-parentheses) - *Medium*
 - [Minimum Moves to Clean the Classroom](./LeetCode/minimum-moves-to-clean-the-classroom) - *Medium*
