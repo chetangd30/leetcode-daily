@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Generate Parentheses](./LeetCode/generate-parentheses) - *Medium*
 - [Minimum Moves to Clean the Classroom](./LeetCode/minimum-moves-to-clean-the-classroom) - *Medium*
 - [Largest prime factor](./GeeksForGeeks/largest-prime-factor) - *Medium*
 - [Largest Rectangle with Column Swaps](./GeeksForGeeks/largest-rectangle-with-column-swaps) - *Hard*
