@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Swap Nodes in Pairs](./LeetCode/swap-nodes-in-pairs) - *Medium*
 - [Two water Jug problem](./GeeksForGeeks/two-water-jug-problem) - *Medium*
 - [Josephus problem](./GeeksForGeeks/josephus-problem) - *Hard*
 - [Tower Of Hanoi](./GeeksForGeeks/tower-of-hanoi) - *Medium*
