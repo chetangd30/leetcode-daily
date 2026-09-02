@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Uncategorized
+- [Unoccupied Computers](./GeeksForGeeks/unoccupied-computers) - *Easy*
 - [Reverse Nodes in k-Group](./LeetCode/reverse-nodes-in-k-group) - *Hard*
 - [Swap Nodes in Pairs](./LeetCode/swap-nodes-in-pairs) - *Medium*
 - [Two water Jug problem](./GeeksForGeeks/two-water-jug-problem) - *Medium*
